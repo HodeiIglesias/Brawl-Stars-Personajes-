@@ -1,0 +1,18 @@
+"Shelly": {
+"calidad": "Común",
+"health": 7400,
+"attack": 600,
+"disparos_por_turno": 5,
+"superataque": 640,
+"disparos_super_por_turno": 5,
+"super_usos_restantes": 3,
+"min_ataques_para_super": 3,
+"habilidades_estelares": [
+{"nombre": "Primeros Auxilios", "descripcion": "Cuando la salud está por debajo del 47%, recupera 1943 puntos de salud automáticamente. La habilidad tarda 3 turnos en recargarse para utilizarse."},
+{"nombre": "Aumento de Daño", "descripcion": "Shelly hace un 32% más de daño."}
+],
+"gadgets": [
+{"nombre": "Escudo", "descripcion": "Shelly obtiene un 31% de escudo durante 1 turno."},
+{"nombre": "Super Ataque", "descripcion": "Shelly recarga un 52% su superataque."}
+]
+},
