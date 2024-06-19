@@ -1,0 +1,66 @@
+"Bull": {
+  "descripcion_del_personaje": "Bull ya no es el toro salvaje de su juventud, pero lejos de estar oxidado, no dudará en demostrar que todavía es duro como el metal si alguien lo pone a prueba.",
+  "calidad": "Especial",
+  "rareza": "Especial",
+  "clase": "Tanque",
+  "velocidad_de_movimiento": {
+    "normal": 770,
+    "con_hipercarga": 962,
+    "con_super": 1800
+  },
+  "voz_de": "Bill Russell",
+  "salud": {
+    "nivel_1": 5000,
+    "nivel_2": 5500,
+    "nivel_3": 6000,
+    "nivel_4": 6500,
+    "nivel_5": 7000,
+    "nivel_6": 7500,
+    "nivel_7": 8000,
+    "nivel_8": 8500,
+    "nivel_9": 9000,
+    "nivel_10": 9500,
+    "nivel_11": 10000
+  },
+  "ataque": {
+    "nombre": "A dos cañones",
+    "descripcion": "Bull dispara 5 balas de escopeta que causan poco daño por sí mismos. Sin embargo, si todos los proyectiles de Bull impactan, pueden causar un daño muy alto. El alcance del ataque de Bull es mucho más corto que el de Shelly, pero los proyectiles de Bull causan mucho más daño. El ataque causa más daño a corta distancia ya que es probable que más proyectiles golpeen al enemigo.",
+    "rango": 5.33,
+    "recarga": 1.6,
+    "recarga_con_toro_bravo": 0.8,
+    "balas_por_ataque": 5,
+    "velocidad_del_proyectil": 2853,
+    "daño_por_bala": {
+      "nivel_1": 440,
+      "nivel_2": 484,
+      "nivel_3": 528,
+      "nivel_4": 572,
+      "nivel_5": 616,
+      "nivel_6": 660,
+      "nivel_7": 704,
+      "nivel_8": 748,
+      "nivel_9": 792,
+      "nivel_10": 836,
+      "nivel_11": 880
+    }
+  },
+  "superataque": {
+    "nombre": "Embestida",
+    "descripcion": "Bull carga hacia adelante una gran distancia en la dirección en la que apunta su Super. Destruye los obstáculos contra los que carga, derriba y daña a los enemigos en su camino. Tenga en cuenta que Bull todavía puede recibir daño mientras usa Embestida, a diferencia de las habilidades aerotransportadas. Si su destino final está en medio de un lago, su distancia de carga aumenta hasta el suelo más cercano. Los golpes no afectarán a su Super, pero los aturdimientos sí.",
+    "rango": 11.67,
+    "recarga_del_super": 11,
+    "daño_por_bala": {
+      "nivel_1": 960,
+      "nivel_2": 1056,
+      "nivel_3": 1152,
+      "nivel_4": 1248,
+      "nivel_5": 1344,
+      "nivel_6": 1440,
+      "nivel_7": 1536,
+      "nivel_8": 1632,
+      "nivel_9": 1728,
+      "nivel_10": 1824,
+      "nivel_11": 1920
+    }
+  }
+}
