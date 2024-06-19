@@ -1,0 +1,63 @@
+
+  "El Primo": {
+    "descripcion_del_personaje": "El Primo es el centro de todas las miradas ¡y es que es el rey del cuadrilátero! Es experto en meterse al público en el bolsillo, aunque no le resulta tan fácil con sus compañeros...",
+    "rareza": "Especial",
+    "clase": "Tanque",
+    "velocidad_de_movimiento": {
+      "normal": 770,
+      "con_super": 1600
+    },
+    "salud": {
+      "nivel_1": 6000,
+      "nivel_2": 6600,
+      "nivel_3": 7200,
+      "nivel_4": 7800,
+      "nivel_5": 8400,
+      "nivel_6": 9000,
+      "nivel_7": 9600,
+      "nivel_8": 10200,
+      "nivel_9": 10800,
+      "nivel_10": 11400,
+      "nivel_11": 12000
+    },
+    "ataque": {
+      "nombre": "Puños de furia",
+      "descripcion": "El Primo lanza una ráfaga de 4 puñetazos, estos tienen poco alcance, pero hacen un daño aceptable y se cargan muy rápido.",
+      "rango": 3,
+      "recarga": 0.8,
+      "puñetazos_por_ataque": 4,
+      "daño_por_puñetazo": {
+        "nivel_1": 380,
+        "nivel_2": 418,
+        "nivel_3": 456,
+        "nivel_4": 494,
+        "nivel_5": 532,
+        "nivel_6": 570,
+        "nivel_7": 608,
+        "nivel_8": 646,
+        "nivel_9": 684,
+        "nivel_10": 722,
+        "nivel_11": 760
+      }
+    },
+    "superataque": {
+      "nombre": "Codo intergaláctico",
+      "descripcion": "Este luchador salta por los aires y, al aterrizar, da un codazo intergaláctico que machaca a los enemigos y destroza refugios. No puede recibir daño mientras está en el aire, y cuando caiga, los que quedan vivos recibirán un empujón hacia atrás con un gran impacto.",
+      "rango": 9,
+      "aterrizaje_del_super": 1,
+      "daño_al_aterrizar": {
+        "nivel_1": 960,
+        "nivel_2": 1056,
+        "nivel_3": 1152,
+        "nivel_4": 1248,
+        "nivel_5": 1344,
+        "nivel_6": 1440,
+        "nivel_7": 1536,
+        "nivel_8": 1632,
+        "nivel_9": 1728,
+        "nivel_10": 1824,
+        "nivel_11": 1920
+      }
+    },
+    "atributo": "Este brawler carga su súper cuando recibe daño. La carga de súper dependerá del daño que haga el enemigo."
+  }
