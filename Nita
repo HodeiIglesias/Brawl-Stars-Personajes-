@@ -1,12 +1,83 @@
-"Nita":{
-"descripcion del personaje": "¡Furiosa como una bestia, Nita nunca se retira de una pelea! El oso de peluche que lleva en la cabeza es un claro aviso para sus rivales: ni se os ocurra tocarlo."
-"calidad": "Especial",
-"health": 8000,
-"attack": 1920,
-"disparos_por_turno": 1,
-"descripcion del Ataque": "Nita genera una onda sísmica que daña a aquellos que sientan el temblor."
-"superataque": 840,
-"disparos_super_por_turno": 8,
-"min_ataques_para_super": 5,
-"descripcion del Ataque": "Nita genera una onda sísmica que daña a aquellos que sientan el temblor."
+
+"Nita": {
+    "descripcion_del_personaje": "¡Furiosa como una bestia, Nita nunca se retira de una pelea! El oso de peluche que lleva en la cabeza es un claro aviso para sus rivales: ni se os ocurra tocarlo.",
+    "calidad": "Especial",
+    "rareza": "Especial",
+    "clase": "Destructora",
+    "velocidad_de_movimiento": 720,
+    "voz_de": "Marissa Lenti",
+    "salud": {
+      "nivel_1": 4000,
+      "nivel_2": 4400,
+      "nivel_3": 4800,
+      "nivel_4": 5200,
+      "nivel_5": 5600,
+      "nivel_6": 6000,
+      "nivel_7": 6400,
+      "nivel_8": 6800,
+      "nivel_9": 7200,
+      "nivel_10": 7600,
+      "nivel_11": 8000
+    },
+    "ataque": {
+      "nombre": "Temblor",
+      "descripcion": "Nita crea una onda de choque de distancia que inflige daño moderado a todos los enemigos que golpea. Tiene un rango moderado y la onda de choque es bastante amplia, aunque no se extiende a medida que viaja, el daño no aumenta ni disminuye dependiendo de la distancia en la que le hayas dado a un enemigo.",
+      "rango": 6,
+      "recarga": 1.1,
+      "velocidad_del_proyectil": 2718,
+      "daño": {
+        "nivel_1": 960,
+        "nivel_2": 1056,
+        "nivel_3": 1152,
+        "nivel_4": 1248,
+        "nivel_5": 1344,
+        "nivel_6": 1440,
+        "nivel_7": 1536,
+        "nivel_8": 1632,
+        "nivel_9": 1728,
+        "nivel_10": 1824,
+        "nivel_11": 1920
+      },
+      "disparos_por_turno": 1
+    },
+    "superataque": {
+      "nombre": "Abrazo del oso",
+      "descripcion": "Nita libera un oso (Bruce), que persigue al enemigo más cercano para golpearlo. El oso puede ver enemigos a través de los arbustos y no se cura por las habilidades de sanación (excepto la estelar de Nita). Bruce tiene un poco más de salud que Nita.",
+      "daño_por_ataque": 840,
+      "rango": 5,
+      "velocidad_de_movimiento": 610,
+      "velocidad_del_proyectil": 1196,
+      "recarga": 0.6,
+      "recarga_con_la_estelar": 0.24,
+      "rango_del_ataque": 1.33,
+      "disparos_por_turno": 8,
+      "min_ataques_para_super": 5,
+      "salud_del_oso": {
+        "nivel_1": 4300,
+        "nivel_2": 4730,
+        "nivel_3": 5160,
+        "nivel_4": 5590,
+        "nivel_5": 6020,
+        "nivel_6": 6450,
+        "nivel_7": 6880,
+        "nivel_8": 7310,
+        "nivel_9": 7740,
+        "nivel_10": 8170,
+        "nivel_11": 8600
+      },
+      "ataque_del_oso": {
+        "nivel_1": 400,
+        "nivel_2": 440,
+        "nivel_3": 480,
+        "nivel_4": 520,
+        "nivel_5": 560,
+        "nivel_6": 600,
+        "nivel_7": 640,
+        "nivel_8": 680,
+        "nivel_9": 720,
+        "nivel_10": 760,
+        "nivel_11": 800
+      }
+    }
+  }
 }
