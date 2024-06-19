@@ -5,7 +5,6 @@
   "clase": "Tanque",
   "velocidad_de_movimiento": {
     "normal": 770,
-    "con_hipercarga": 962,
     "con_super": 1800
   },
   "salud": {
