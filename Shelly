@@ -1,7 +1,6 @@
 "Shelly": {
     "descripcion_del_personaje": "Shelly es la tiradora perfecta: donde pone el ojo, pone la bala. No entiende por qué Colt es quien siempre se lleva todas las miradas...",
-    "calidad": "Común",
-    "rareza": "Común (Inicial)",
+    "calidad": "Común (Inicial)",
     "clase": "Destructora",
     "velocidad_de_movimiento": {
       "normal": 770,
