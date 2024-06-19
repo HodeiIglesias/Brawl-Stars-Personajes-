@@ -1,0 +1,12 @@
+"Nita":{
+"descripcion del personaje": "¡Furiosa como una bestia, Nita nunca se retira de una pelea! El oso de peluche que lleva en la cabeza es un claro aviso para sus rivales: ni se os ocurra tocarlo."
+"calidad": "Especial",
+"health": 8000,
+"attack": 1920,
+"disparos_por_turno": 1,
+"descripcion del Ataque": "Nita genera una onda sísmica que daña a aquellos que sientan el temblor."
+"superataque": 840,
+"disparos_super_por_turno": 8,
+"min_ataques_para_super": 5,
+"descripcion del Ataque": "Nita genera una onda sísmica que daña a aquellos que sientan el temblor."
+}
