@@ -1,0 +1,68 @@
+ "Colt": {
+    "descripcion_del_personaje": "¡Colt es la atracción principal de Starr Park! Su carisma, sus trucos con la pistola y su sonrisa resplandeciente conquistan hasta al público más exigente. Excepto a Shelly, claro...",
+    "calidad": "Especial",
+    "rareza": "Especial",
+    "clase": "Destructor",
+    "velocidad_de_movimiento": {
+      "normal": 720,
+      "con_botas_veloces": 820,
+      "con_hipercarga": 936,
+      "con_botas_veloces_e_hipercarga": 1036
+    },
+    "voz_de": "Billy Kametz",
+    "salud": {
+      "nivel_1": 2800,
+      "nivel_2": 3080,
+      "nivel_3": 3360,
+      "nivel_4": 3640,
+      "nivel_5": 3920,
+      "nivel_6": 4200,
+      "nivel_7": 4480,
+      "nivel_8": 4760,
+      "nivel_9": 5040,
+      "nivel_10": 5320,
+      "nivel_11": 5600
+    },
+    "ataque": {
+      "nombre": "Revólveres",
+      "descripcion": "Colt dispara una descarga de varias balas. Su largo alcance puede acabar con enemigos distantes. Cada bala por sí misma hace poco daño, pero una fila numerosa que golpee a un enemigo puede ser devastadora.",
+      "rango": 9,
+      "recarga": 1.4,
+      "balas_por_ataque": 6,
+      "velocidad_del_proyectil": 4000,
+      "velocidad_con_pistoletazo": 4400,
+      "daño_por_bala": {
+        "nivel_1": 360,
+        "nivel_2": 396,
+        "nivel_3": 432,
+        "nivel_4": 468,
+        "nivel_5": 504,
+        "nivel_6": 540,
+        "nivel_7": 576,
+        "nivel_8": 612,
+        "nivel_9": 648,
+        "nivel_10": 684,
+        "nivel_11": 720
+      }
+    },
+    "superataque": {
+      "nombre": "Tormenta de balas",
+      "descripcion": "Colt dispara una descarga extra-larga de balas. Estas balas parecen más grandes en tamaño, tienen un alcance más largo y tienen la capacidad de destruir arbustos y paredes y de golpear a los enemigos detrás de ellas.",
+      "rango": 11,
+      "balas_del_super": 12,
+      "daño_por_bala": {
+        "nivel_1": 320,
+        "nivel_2": 352,
+        "nivel_3": 384,
+        "nivel_4": 416,
+        "nivel_5": 448,
+        "nivel_6": 480,
+        "nivel_7": 512,
+        "nivel_8": 544,
+        "nivel_9": 576,
+        "nivel_10": 608,
+        "nivel_11": 640
+      }
+    }
+  }
+}
