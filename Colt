@@ -5,9 +5,6 @@
     "clase": "Destructor",
     "velocidad_de_movimiento": {
       "normal": 720,
-      "con_botas_veloces": 820,
-      "con_hipercarga": 936,
-      "con_botas_veloces_e_hipercarga": 1036
     },
     "salud": {
       "nivel_1": 2800,
@@ -64,4 +61,3 @@
       }
     }
   }
-}
