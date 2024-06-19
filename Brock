@@ -1,0 +1,73 @@
+"Brock": {
+  "descripcion_del_personaje": "Brock es un entusiasta de los videojuegos y todo un guerrero del teclado. Aunque no lo parezca, es bastante introvertido, ¡pero hará lo que sea para ganar!",
+  "calidad": "Especial",
+  "clase": "Tiro de Elite",
+  "velocidad_de_movimiento": 720,
+  "salud": {
+    "nivel_1": 2400,
+    "nivel_2": 2640,
+    "nivel_3": 2880,
+    "nivel_4": 3120,
+    "nivel_5": 3360,
+    "nivel_6": 3600,
+    "nivel_7": 3840,
+    "nivel_8": 4080,
+    "nivel_9": 4320,
+    "nivel_10": 4560,
+    "nivel_11": 4800
+  },
+  "ataque": {
+    "nombre": "Cohete",
+    "descripcion": "El ataque de Brock es un cohete de largo alcance que inflige daño de área alta en un radio de 1 cuadro en el momento del impacto. Sin embargo, sus ataques se recargan con bastante lentitud y también viajan lentamente. Después de explotar, prende fuego al suelo dentro de un radio de 1 cuadro que inflige daño durante 2 segundos.",
+    "rango": 9,
+    "recarga": 2.0,
+    "velocidad_del_proyectil": 2700,
+    "daño_por_cohete": {
+      "nivel_1": 1160,
+      "nivel_2": 1276,
+      "nivel_3": 1392,
+      "nivel_4": 1508,
+      "nivel_5": 1624,
+      "nivel_6": 1740,
+      "nivel_7": 1856,
+      "nivel_8": 1972,
+      "nivel_9": 2088,
+      "nivel_10": 2204,
+      "nivel_11": 2320
+    },
+    "daño_del_fuego": {
+      "nivel_1": 348,
+      "nivel_2": 382,
+      "nivel_3": 416,
+      "nivel_4": 450,
+      "nivel_5": 484,
+      "nivel_6": 518,
+      "nivel_7": 552,
+      "nivel_8": 586,
+      "nivel_9": 620,
+      "nivel_10": 654,
+      "nivel_11": 688
+    }
+  },
+  "superataque": {
+    "nombre": "Lluvia explosiva",
+    "descripcion": "Cuando se usa el súper de Brock, lanza 9 cohetes esparcidos sobre un área grande, causando un gran daño a cualquier objetivo golpeado. Estos cohetes pueden destruir obstáculos en un radio de 1 cuadro y pueden dispararse sobre ellos. El súper tarda 2,05 segundos en completarse. Brock aún puede moverse mientras Lluvia explosiva está en efecto, y los cohetes disparados continúan golpeando el área, independientemente de la posición de Brock. Sin embargo, no puede atacar mientras usa su súper, y cuando usa su Gadget 'Zapatillas explosivas' cuando usa su súper, se interrumpe.",
+    "rango": 8.33,
+    "balas_del_super": 9,
+    "velocidad_del_proyectil": 870,
+    "recarga_del_super": 20.8,
+    "daño_por_cohete": {
+      "nivel_1": 1040,
+      "nivel_2": 1144,
+      "nivel_3": 1248,
+      "nivel_4": 1352,
+      "nivel_5": 1456,
+      "nivel_6": 1560,
+      "nivel_7": 1664,
+      "nivel_8": 1768,
+      "nivel_9": 1872,
+      "nivel_10": 1976,
+      "nivel_11": 2080
+    }
+  }
+}
