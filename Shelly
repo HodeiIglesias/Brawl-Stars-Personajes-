@@ -47,7 +47,7 @@
       "balas_del_super": 9,
       "velocidad_del_proyectil": 4130,
       "recarga_del_super": 8.96,
-      "daño_por_bala": {
+      "daño_por_disparo": {
         "nivel_1": 320,
         "nivel_2": 352,
         "nivel_3": 384,
