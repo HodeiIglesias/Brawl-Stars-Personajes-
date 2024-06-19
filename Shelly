@@ -1,10 +1,70 @@
-"Shelly":{
-"calidad": "Común",
-"health": 7400,
-"attack": 600,
-"disparos_por_turno": 5,
-"superataque": 640,
-"disparos_super_por_turno": 5,
-"min_ataques_para_super": 3,
-"descripcion": "Shelly es la tiradora perfecta: donde pone el ojo, pone la bala. No entiende por qué Colt es quien siempre se lleva todas las miradas..."
+"Shelly": {
+    "descripcion_del_personaje": "Shelly es la tiradora perfecta: donde pone el ojo, pone la bala. No entiende por qué Colt es quien siempre se lleva todas las miradas...",
+    "calidad": "Común",
+    "rareza": "Común (Inicial)",
+    "clase": "Destructora",
+    "velocidad_de_movimiento": {
+      "normal": 770,
+    },
+    "salud": {
+      "nivel_1": 3700,
+      "nivel_2": 4070,
+      "nivel_3": 4440,
+      "nivel_4": 4810,
+      "nivel_5": 5180,
+      "nivel_6": 5550,
+      "nivel_7": 5920,
+      "nivel_8": 6290,
+      "nivel_9": 6660,
+      "nivel_10": 7030,
+      "nivel_11": 7400
+    },
+    "ataque": {
+      "nombre": "Escopeta",
+      "descripcion": "Shelly dispara una descarga de balas. Cada bala por sí misma hace poco daño, pero una fila numerosa que golpee a un enemigo puede ser devastadora.",
+      "rango": 7.67,
+      "recarga": 1.5,
+      "disparos_por_ataque": 5,
+      "velocidad_del_proyectil": 3100,
+      "daño_por_disparo": {
+        "nivel_1": 300,
+        "nivel_2": 330,
+        "nivel_3": 360,
+        "nivel_4": 390,
+        "nivel_5": 420,
+        "nivel_6": 450,
+        "nivel_7": 480,
+        "nivel_8": 510,
+        "nivel_9": 540,
+        "nivel_10": 570,
+        "nivel_11": 600
+      }
+    },
+    "superataque": {
+      "nombre": "Cargador Completo",
+      "descripcion": "Shelly dispara una descarga extra-larga de balas. Estas balas parecen más grandes en tamaño, tienen un alcance más largo y tienen la capacidad de destruir arbustos y paredes y de golpear a los enemigos detrás de ellas.",
+      "rango": 7.67,
+      "balas_del_super": 9,
+      "velocidad_del_proyectil": 4130,
+      "recarga_del_super": 8.96,
+      "daño_por_bala": {
+        "nivel_1": 320,
+        "nivel_2": 352,
+        "nivel_3": 384,
+        "nivel_4": 416,
+        "nivel_5": 448,
+        "nivel_6": 480,
+        "nivel_7": 512,
+        "nivel_8": 544,
+        "nivel_9": 576,
+        "nivel_10": 608,
+        "nivel_11": 640
+      }
+    },
+    "otros": {
+      "disparos_por_turno": 5,
+      "disparos_super_por_turno": 5,
+      "min_ataques_para_super": 3
+    }
+  }
 }
