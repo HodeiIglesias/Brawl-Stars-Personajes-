@@ -1,0 +1,67 @@
+"Nombre": "Jessie",
+  "Descripcion": "Jessie es una niña prodigio capaz de construir armas y gadgets a partir de lo que se encuentra en la chatarrería. Quizá algún día su madre, Pam, se dé cuenta de lo que es capaz.",
+  "Rareza": "Superespecial",
+  "Clase": "Control",
+  "Velocidad de movimiento": {
+    "Normal": 720,
+    "Con Hipercarga": 936
+  },
+  "Voz de": "Maya Tuttle",
+  "Salud": {
+    "Niveles": [
+      {"Nivel": 1, "Salud": 3000},
+      {"Nivel": 2, "Salud": 3300},
+      {"Nivel": 3, "Salud": 3600},
+      {"Nivel": 4, "Salud": 3900},
+      {"Nivel": 5, "Salud": 4200},
+      {"Nivel": 6, "Salud": 4500},
+      {"Nivel": 7, "Salud": 4800},
+      {"Nivel": 8, "Salud": 5100},
+      {"Nivel": 9, "Salud": 5400},
+      {"Nivel": 10, "Salud": 5700},
+      {"Nivel": 11, "Salud": 6000}
+    ]
+  },
+  "Ataque": {
+    "Nombre": "Rifle aturdidor",
+    "Descripcion": "Jessie dispara una esfera de energía. Tras alcanzar al primer objetivo, esta masa de energía puede llegar a alcanzar a hasta dos objetivos más. El daño que inflige se reduce un 25% con cada rebote.",
+    "Rango": 9,
+    "Recarga": "1.8 segundos",
+    "Velocidad del proyectil": 2870,
+    "Velocidad del proyectil (Rebote)": 1522,
+    "Niveles de Daño": [
+      {"Nivel": 1, "Daño": 1060, "Después de 1 rebote": 795, "Después de 2 rebotes": 530},
+      {"Nivel": 2, "Daño": 1166, "Después de 1 rebote": 874, "Después de 2 rebotes": 583},
+      {"Nivel": 3, "Daño": 1272, "Después de 1 rebote": 953, "Después de 2 rebotes": 636},
+      {"Nivel": 4, "Daño": 1378, "Después de 1 rebote": 1032, "Después de 2 rebotes": 689},
+      {"Nivel": 5, "Daño": 1484, "Después de 1 rebote": 1111, "Después de 2 rebotes": 742},
+      {"Nivel": 6, "Daño": 1590, "Después de 1 rebote": 1190, "Después de 2 rebotes": 795},
+      {"Nivel": 7, "Daño": 1696, "Después de 1 rebote": 1269, "Después de 2 rebotes": 848},
+      {"Nivel": 8, "Daño": 1802, "Después de 1 rebote": 1348, "Después de 2 rebotes": 901},
+      {"Nivel": 9, "Daño": 1908, "Después de 1 rebote": 1427, "Después de 2 rebotes": 954},
+      {"Nivel": 10, "Daño": 2014, "Después de 1 rebote": 1506, "Después de 2 rebotes": 1007},
+      {"Nivel": 11, "Daño": 2120, "Después de 1 rebote": 1585, "Después de 2 rebotes": 1060}
+    ]
+  },
+  "Súper": {
+    "Nombre": "Chatarreta",
+    "Descripcion": "Jessie despliega una torreta capaz de disparar automáticamente. ¡100% hecha de materiales reciclados!",
+    "Rango": 9,
+    "Velocidad del proyectil": 1196,
+    "Velocidad del proyectil (Scrappy)": 3478,
+    "Recarga del Súper": "6.305%",
+    "Niveles de Daño de la torreta": [
+      {"Nivel": 1, "Salud de la torreta": 3300, "Daño de la torreta": 260},
+      {"Nivel": 2, "Salud de la torreta": 3630, "Daño de la torreta": 286},
+      {"Nivel": 3, "Salud de la torreta": 3960, "Daño de la torreta": 312},
+      {"Nivel": 4, "Salud de la torreta": 4290, "Daño de la torreta": 338},
+      {"Nivel": 5, "Salud de la torreta": 4620, "Daño de la torreta": 364},
+      {"Nivel": 6, "Salud de la torreta": 4950, "Daño de la torreta": 390},
+      {"Nivel": 7, "Salud de la torreta": 5280, "Daño de la torreta": 416},
+      {"Nivel": 8, "Salud de la torreta": 5610, "Daño de la torreta": 442},
+      {"Nivel": 9, "Salud de la torreta": 5940, "Daño de la torreta": 468},
+      {"Nivel": 10, "Salud de la torreta": 6270, "Daño de la torreta": 494},
+      {"Nivel": 11, "Salud de la torreta": 6600, "Daño de la torreta": 520}
+    ]
+  }
+
