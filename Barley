@@ -1,0 +1,58 @@
+"Barley": {
+    "informacion_del_personaje": "Este barman robótico ha sido diseñado para preparar bebidas y charlar con la clientela. Barley también se dedica a mantener el bar limpio con una patena a toda costa, aunque tenga que patear el trasero de algún que otro cliente patoso."
+    "rareza": "Especial",
+    "clase": "Artillería",
+    "velocidad_de_movimiento": 720,
+    "salud": {
+      "nivel_1": 2400,
+      "nivel_2": 2640,
+      "nivel_3": 2880,
+      "nivel_4": 3120,
+      "nivel_5": 3360,
+      "nivel_6": 3600,
+      "nivel_7": 3840,
+      "nivel_8": 4080,
+      "nivel_9": 4320,
+      "nivel_10": 4560,
+      "nivel_11": 4800
+    },
+    "ataque": {
+      "nombre": "Desparrame",
+      "descripcion": "Barley lanza una botella que daña a los enemigos cuando cae al suelo, se rompe y los salpica. ¡Y reciben más daño aún si se quedan en el área afectada!",
+      "rango": 7.33,
+      "recarga": 2,
+      "daño_por_segundo": {
+        "nivel_1": 800,
+        "nivel_2": 880,
+        "nivel_3": 960,
+        "nivel_4": 1040,
+        "nivel_5": 1120,
+        "nivel_6": 1200,
+        "nivel_7": 1280,
+        "nivel_8": 1360,
+        "nivel_9": 1440,
+        "nivel_10": 1520,
+        "nivel_11": 1600
+      }
+    },
+    "superataque": {
+      "nombre": "Cortesía de la casa",
+      "descripcion": "Barley arroja con furia un montón de botellas que prenden fuego a un área extensa. ¡Invita la casa!",
+      "rango": 9.33,
+      "balas_del_super": 5,
+      "velocidad_del_proyectil": 1500,
+      "daño_por_segundo": {
+        "nivel_1": 800,
+        "nivel_2": 880,
+        "nivel_3": 960,
+        "nivel_4": 1040,
+        "nivel_5": 1120,
+        "nivel_6": 1200,
+        "nivel_7": 1280,
+        "nivel_8": 1360,
+        "nivel_9": 1440,
+        "nivel_10": 1520,
+        "nivel_11": 1600
+      }
+    }
+  }
