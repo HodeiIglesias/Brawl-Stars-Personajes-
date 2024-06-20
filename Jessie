@@ -4,9 +4,7 @@
   "Clase": "Control",
   "Velocidad de movimiento": {
     "Normal": 720,
-    "Con Hipercarga": 936
   },
-  "Voz de": "Maya Tuttle",
   "Salud": {
     "Niveles": [
       {"Nivel": 1, "Salud": 3000},
