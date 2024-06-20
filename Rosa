@@ -1,0 +1,47 @@
+"Rosa": {
+    "descripcion_del_personaje": "Rosa es una botánica que protege su jardín con fuerza bruta. Utiliza sus habilidades para defenderse y causar estragos en el campo de batalla.",
+    "rareza": "Especial",
+    "clase": "Tanque",
+    "velocidad_de_movimiento": 770,
+    "voz_de": "Sheila Williams",
+    "salud": {
+      "nivel_1": 5400,
+      "nivel_2": 5940,
+      "nivel_3": 6480,
+      "nivel_4": 7020,
+      "nivel_5": 7560,
+      "nivel_6": 8100,
+      "nivel_7": 8640,
+      "nivel_8": 9180,
+      "nivel_9": 9720,
+      "nivel_10": 10260,
+      "nivel_11": 10800
+    },
+    "ataque": {
+      "nombre": "Puños Botánicos",
+      "descripcion": "Rosa lanza una ráfaga de 3 puñetazos. Cada puñetazo causa un daño significativo a corta distancia, permitiéndole hacer frente a los enemigos de cerca.",
+      "rango": 3.67,
+      "recarga": 1,
+      "balas_por_ataque": 3,
+      "daño_por_puñetazo": {
+        "nivel_1": 460,
+        "nivel_2": 506,
+        "nivel_3": 552,
+        "nivel_4": 598,
+        "nivel_5": 644,
+        "nivel_6": 690,
+        "nivel_7": 736,
+        "nivel_8": 782,
+        "nivel_9": 828,
+        "nivel_10": 874,
+        "nivel_11": 920
+      }
+    },
+    "superataque": {
+      "nombre": "Defensa Espinosa",
+      "descripcion": "Rosa se cubre con una capa de espinas que le otorga un escudo del 90% de reducción de daño durante 3 segundos.",
+      "duracion": 3,
+      "reduccion_de_daño": 90
+    }
+  }
+
