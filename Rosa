@@ -3,7 +3,6 @@
     "rareza": "Especial",
     "clase": "Tanque",
     "velocidad_de_movimiento": 770,
-    "voz_de": "Sheila Williams",
     "salud": {
       "nivel_1": 5400,
       "nivel_2": 5940,
