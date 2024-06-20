@@ -1,7 +1,6 @@
  "Colt": {
     "descripcion_del_personaje": "¡Colt es la atracción principal de Starr Park! Su carisma, sus trucos con la pistola y su sonrisa resplandeciente conquistan hasta al público más exigente. Excepto a Shelly, claro...",
     "calidad": "Especial",
-    "rareza": "Especial",
     "clase": "Destructor",
     "velocidad_de_movimiento": {
       "normal": 720,
