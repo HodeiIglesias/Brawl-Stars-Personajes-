@@ -1,0 +1,55 @@
+"Poco": {
+    "descripcion_del_personaje": "Poco emite ondas sonoras que dañan la sensibilidad de los enemigos. Su súper tiene un efecto sanador, tanto para sí mismo como para sus aliados.",
+    "calidad": "Especial",
+    "clase": "Apoyo",
+    "velocidad_de_movimiento": 720,
+    "salud": {
+      "nivel_1": 3700,
+      "nivel_2": 4070,
+      "nivel_3": 4440,
+      "nivel_4": 4810,
+      "nivel_5": 5180,
+      "nivel_6": 5550,
+      "nivel_7": 5920,
+      "nivel_8": 6290,
+      "nivel_9": 6660,
+      "nivel_10": 7030,
+      "nivel_11": 7400
+    },
+    "ataque": {
+      "nombre": "Serenata",
+      "descripcion": "Poco lanza una serenata que daña 700 (Nivel 1) a los enemigos y aunque hace poco daño tiene un muy buen rango y puede llegar a hacer mucho daño de área si los enemigos se juntan.",
+      "recarga": 1.6,
+      "daño": {
+        "nivel_1": 760,
+        "nivel_2": 836,
+        "nivel_3": 912,
+        "nivel_4": 988,
+        "nivel_5": 1064,
+        "nivel_6": 1140,
+        "nivel_7": 1216,
+        "nivel_8": 1292,
+        "nivel_9": 1368,
+        "nivel_10": 1444,
+        "nivel_11": 1520
+      }
+    },
+    "superataque": {
+      "nombre": "Popurrí sanador",
+      "descripcion": "Poco genera una Canción curativa que sana 2100 (Nivel 1) a los aliados . Esto es bueno para sanarte a ti y a los aliados que tengan poca vida.",
+      "rango": 7,
+      "sanacion": {
+        "nivel_1": 2100,
+        "nivel_2": 2310,
+        "nivel_3": 2520,
+        "nivel_4": 2730,
+        "nivel_5": 2940,
+        "nivel_6": 3150,
+        "nivel_7": 3360,
+        "nivel_8": 3570,
+        "nivel_9": 3780,
+        "nivel_10": 3990,
+        "nivel_11": 4200
+      }
+    }
+  }
